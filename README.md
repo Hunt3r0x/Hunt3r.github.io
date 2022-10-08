@@ -1,2 +1,2 @@
+![alt text](https://giphy.com/gifs/blackish-anthony-anderson-dre-johnson-d2lcHJTG5Tscg?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
